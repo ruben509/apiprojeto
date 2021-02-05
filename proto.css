@@ -40,3 +40,49 @@
     width: 80px;
     background-color:rgb(6, 165, 32);
 }
+.a-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a-flex1{
+   padding: 20px;
+    width: 400px;
+    height: 100px;
+    align-self: flex-start;
+
+}
+.a-flex2{
+    width: 400px;
+    height: 200px;
+    
+}
+.f-flex{
+    display: flex;
+    width: 1440px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 44px;
+}
+.f-flex1{
+    font-size: 32px;
+}
+.f-flex2{
+    font-size: 32px; 
+}
+.botao1{
+    height: 30px;
+    width: 220px;
+    background-color: mediumblue;
+    font-size: 22px;
+    color:white;
+}
+.botao2{
+    height: 30px;
+    width: 260px;
+    background-color:white;
+    font-size: 22px;
+    color:mediumblue;
+}
